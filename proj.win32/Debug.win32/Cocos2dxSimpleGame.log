@@ -1,0 +1,28 @@
+﻿Build started 24.06.2014 20:20:36.
+     1>Project "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Cocos2dxSimpleGame.vcxproj" on node 2 (Build target(s)).
+     1>PreLinkEvent:
+         if not exist "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Debug.win32\" mkdir "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Debug.win32\"
+         xcopy /Y /Q "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\..\..\external\libwebsockets\win32\lib\*.*" "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Debug.win32\"
+         :VCEnd
+         Скопировано файлов: 2.
+       Link:
+         Cocos2dxSimpleGame.vcxproj -> E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Debug.win32\Cocos2dxSimpleGame.exe
+       PostBuildEvent:
+         xcopy "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\*.*" "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Debug.win32\"  /Y /E
+         :VCEnd
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\background-music-aac.wav
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\CloseNormal.png
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\CloseSelected.png
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\enemy.png
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\HelloWorld.png
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\pew-pew-lei.wav
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\player.png
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\shuriken.png
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\fonts\arial.ttf
+         E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\..\Resources\fonts\Marker Felt.ttf
+         Скопировано файлов: 10.
+     1>Done Building Project "E:\Cache\USERS\Documents\Visual Studio 2012\Projects\cocos2d-x-2.2.1\projects\Cocos2dxSimpleGame\proj.win32\Cocos2dxSimpleGame.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.42
